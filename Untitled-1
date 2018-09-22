@@ -1,0 +1,36 @@
+Peter Naur is famously quoted as saying data science “deals with the data, while the actual relation of data  to what they represent should occur in other fields.” What might be problematic in this statement? Why do you think he’d choose to frame data science this way?
+I agree that the way he defines data science, I mean science itself is something very broad and tricky, so I guess it’s fair to say “it occur in other fields”. However, the problem here I feel is he then makes data science too complicated and universal, I mean 90% of data science related to Math and Computing, We don’t really need to increase its complexity just for the 10% exception.
+
+
+2. There was a substantial shift in the ways we define data science between the 1970s and the early 2000s. Describe this shift and why it may have emerged.
+In my opinion, the shift between 70s and early 2000s is the usage of data analysis. In the 70s data scientists analyzed data for research purpose, it is strongly related to computing and mathematics. However, the newest definition of data science focuses more on human beings, like marketing. How to we make data meaningful to human, in the 2000s data science can’t be separated from human; therefore, the way how to explain and visualize data has become extremely practical. The reason why the shift happened, I think its because we realized that operating data science in Business actually help us make money more quickly and effectively. 
+
+3. The idea of "big data" dominates much of modern data science. However, data is still growing at an exponential rate.
+What factors do you think may have led to this growth? Mention at least three and describe why they have contributed to recent explosions in data volume.
+1, The first reason why data is exploding quickly is because our advanced-technology. I remember I heard this before “images in 2016 is more than image before 1960 combined”. This quote simply tells us that technology has changed the way how we perceive the world.
+2, The storage(cloud) technique is growing faster as well. In the project I did with my professor Jed from last semester, I learned that Facebook will actually save anything that you delete on it, which means Facebook not only have the data that is currently existing, but also they have the information that was eliminated by the users’. That is a humongous amount of data for sure, and Facebook(its cloud) has the ability to store that.
+3, Last but not least, people (businessman) are aware the importance of data. We know Google analytics is a software that gets you to know every single detail from the users who have ever browsed on your website. We want to know what kind of phone they use, how long they stayed on the website? or even what is remaining in their battery? Just because you never know, this information might be profitable one day in the future. 
+B. Where is this new data coming from?
+
+I think the new data is coming from everywhere. I mean as aforementioned, more and more data are generated via the advanced technology. However, from my perspective, I’d say we(data analyst) start to aware the significance of data, and information, for those information that was considered “useless”, we treat them nowadays completely differently. In conclusion, I will say “new” data is not fully new, there was some data that existed, but we weren’t paying attention on it.
+
+ Name three different data collection methods. How are they similar? How are they different? Consider using specific scenarios where you may need to collect data to ground your responses. 
+
+1, Intervier
+
+2, Survey
+
+3, Observation 
+
+Similarity(s): 
+
+They are all ways to collect information.
+They are all the methods that have been existing before the development of technology.
+These three methods need more time to collect data.
+Normally, you can collect millions of data thru these three methods.
+
+Differences:
+
+ Interview requires more trust I think, so you get detailed information, but it is usually really hard to find a participant who’d like to spend hours sitting with you.
+Survey. get data faster than interview for sure, but there is a higher chances that participants aren’t very honest with you. For myself, I did survey for ChickFila numerous times, however, I am never paying attention for that but just get those free sandwiches.
+Observation: Very Bias, the observer pretty much decides the result of it. However, it is very useful when you are looking for the difference between a group. Marketing uses a lot of observations to investigate their customers.
